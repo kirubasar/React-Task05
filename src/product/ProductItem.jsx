@@ -25,7 +25,7 @@ const ProductItem = () => {
         <div className="card mb-3">
     <div className="row g-0">
       <div className="col-md-4">
-        <img src="https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg" className="img-fluid rounded-start" alt="image"/>
+        <img src="https://specs-tech.com/wp-content/uploads/2020/01/iPhone-9-600x600.jpg" className="img-fluid rounded-start" alt="image"/>
       </div>
       <div className="col-md-8">
         <div className="card-body">
